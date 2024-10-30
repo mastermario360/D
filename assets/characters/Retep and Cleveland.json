@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				474,
+				-51
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Retep left"
+		},
+		{
+			"offsets": [
+				64,
+				210
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Retep up"
+		},
+		{
+			"offsets": [
+				199,
+				-123
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Retep down"
+		},
+		{
+			"offsets": [
+				-123,
+				-99
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Retep right"
+		},
+		{
+			"offsets": [
+				17,
+				-8
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "Retep idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Retep",
+	"position": [
+		180,
+		160
+	],
+	"healthicon": "clevelandretepFV",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-230,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 4.4
+}

@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "StewieTwinkleUncorr idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "StewieTwinkleUncorr down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "StewieTwinkleUncorr right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "StewieTwinkleUncorr up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "StewieTwinkleUncorr left"
+		},
+		{
+			"offsets": [
+				150,
+				10
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "Brah",
+			"indices": [],
+			"name": "StewieTwinkleUncorr Breakaway"
+		},
+		{
+			"offsets": [
+				22,
+				-30
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "tp",
+			"indices": [],
+			"name": "StewieTwinkleUncorr TP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				8
+			],
+			"anim": "idle-alt",
+			"fps": 13,
+			"name": "StewieTwinkleUncorr Breakaway",
+			"indices": [
+				8,
+				9
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/StewieTwinkleUncorr",
+	"position": [
+		350,
+		380
+	],
+	"healthicon": "icon-stewieTwinkleph4",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-120,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

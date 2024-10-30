@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-58,
+				-39
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				198,
+				81
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				35
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-56,
+				284
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-39,
+				85
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rallo",
+	"position": [
+		820,
+		420
+	],
+	"healthicon": "rallo",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		222,
+		234
+	],
+	"camera_position": [
+		-570,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 3.2
+}

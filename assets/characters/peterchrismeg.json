@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-263,
+				-193
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PeterChrisMeg left"
+		},
+		{
+			"offsets": [
+				-263,
+				-193
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PeterChrisMeg right"
+		},
+		{
+			"offsets": [
+				53,
+				39
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "idle",
+			"loop": true,
+			"name": "PeterChrisMeg idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PeterChrisMeg",
+	"position": [
+		-220,
+		20
+	],
+	"healthicon": "PeterChrisMeg",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		0
+	],
+	"camera_position": [
+		-390,
+		-390
+	],
+	"sing_duration": 6.1,
+	"scale": 4.8
+}

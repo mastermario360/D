@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Lois idle",
-			"indices": []
+			"indices": [],
+			"name": "Lois idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Lois left",
-			"indices": []
+			"indices": [],
+			"name": "Lois left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Lois down",
-			"indices": []
+			"indices": [],
+			"name": "Lois down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Lois up",
-			"indices": []
+			"indices": [],
+			"name": "Lois up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Lois right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lois right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Lois",
 	"position": [
-		330,
-		20
+		-240,
+		-380
 	],
 	"healthicon": "lois",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		17
 	],
 	"camera_position": [
-		-580,
-		-380
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

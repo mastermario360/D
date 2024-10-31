@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle",
-			"indices": []
+			"loop": false,
+			"name": "BF idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF left",
-			"indices": []
+			"loop": false,
+			"name": "BF left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 24,
-			"name": "BF right",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-18,
 				34
 			],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 24,
-			"name": "BF up",
-			"indices": []
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-7,
 				-20
 			],
-			"anim": "singDOWN",
+			"indices": [],
 			"fps": 24,
-			"name": "BF down",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF down"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BF",
 	"position": [
-		180,
-		320
+		-20,
+		130
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -70,9 +70,9 @@
 		209
 	],
 	"camera_position": [
-		320,
-		-310
+		140,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }

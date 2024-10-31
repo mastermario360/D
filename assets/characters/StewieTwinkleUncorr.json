@@ -1,102 +1,102 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": true,
-			"fps": 13,
+			"offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "StewieTwinkleUncorr idle"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "StewieTwinkleUncorr down"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "StewieTwinkleUncorr right"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUP",
-			"indices": [],
-			"name": "StewieTwinkleUncorr up"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "StewieTwinkleUncorr left"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				150,
 				10
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "Brah",
-			"indices": [],
-			"name": "StewieTwinkleUncorr Breakaway"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr Breakaway",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				22,
 				-30
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "tp",
-			"indices": [],
-			"name": "StewieTwinkleUncorr TP"
+			"fps": 13,
+			"name": "StewieTwinkleUncorr TP",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				144,
 				8
 			],
-			"anim": "idle-alt",
-			"fps": 13,
-			"name": "StewieTwinkleUncorr Breakaway",
 			"indices": [
 				8,
 				9
-			]
+			],
+			"fps": 13,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "StewieTwinkleUncorr Breakaway"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/StewieTwinkleUncorr",
 	"position": [
-		350,
-		380
+		250,
+		280
 	],
 	"healthicon": "icon-stewieTwinkleph4",
 	"flip_x": false,
@@ -106,9 +106,9 @@
 		161
 	],
 	"camera_position": [
-		-120,
-		-100
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 2.4
+	"scale": 1.2
 }

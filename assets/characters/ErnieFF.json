@@ -70,8 +70,8 @@
 	"no_antialiasing": false,
 	"image": "characters/ErnieCorrupt",
 	"position": [
-		240,
-		240
+		0,
+		0
 	],
 	"healthicon": "ernie",
 	"flip_x": false,
@@ -81,9 +81,9 @@
 		0
 	],
 	"camera_position": [
-		-240,
-		-240
+		0,
+		0
 	],
 	"sing_duration": 7.99999999999999,
-	"scale": 4
+	"scale": 1
 }

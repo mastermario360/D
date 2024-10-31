@@ -70,8 +70,8 @@
 	"no_antialiasing": true,
 	"image": "characters/CorruptedCleveland2",
 	"position": [
-		110,
-		170
+		-150,
+		-130
 	],
 	"healthicon": "clevelandcorruptedFV",
 	"flip_x": false,
@@ -81,9 +81,9 @@
 		0
 	],
 	"camera_position": [
-		-270,
-		-280
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.4
+	"scale": 1.1
 }

@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Peter",
 	"position": [
-		120,
-		250
+		-260,
+		-20
 	],
 	"healthicon": "duo",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		2
 	],
 	"camera_position": [
-		-330,
-		-200
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

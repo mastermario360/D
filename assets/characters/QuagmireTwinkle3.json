@@ -1,88 +1,88 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				1050,
 				370
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "QuagmireTwinkle3 down"
+			"fps": 13,
+			"name": "QuagmireTwinkle3 down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1040,
 				370
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "QuagmireTwinkle3 right"
+			"fps": 13,
+			"name": "QuagmireTwinkle3 right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1050,
 				370
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUP",
-			"indices": [],
-			"name": "QuagmireTwinkle3 up"
+			"fps": 13,
+			"name": "QuagmireTwinkle3 up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1050,
 				370
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "QuagmireTwinkle3 left"
-		},
-		{
-			"offsets": [
-				1050,
-				370
-			],
-			"loop": false,
 			"fps": 13,
-			"anim": "stab",
-			"indices": [],
-			"name": "QuagmireTwinkle3 stab"
+			"name": "QuagmireTwinkle3 left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				1050,
-				370
-			],
-			"loop": false,
-			"fps": 4,
-			"anim": "unstab",
-			"indices": [],
-			"name": "QuagmireTwinkle3 unstab"
-		},
-		{
-			"offsets": [
-				1050,
-				370
-			],
-			"indices": [],
-			"fps": 13,
-			"anim": "idle",
 			"loop": true,
-			"name": "QuagmireTwinkle3 idle"
+			"offsets": [
+				1050,
+				370
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "QuagmireTwinkle3 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1050,
+				370
+			],
+			"anim": "stab",
+			"fps": 13,
+			"name": "QuagmireTwinkle3 stab",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1050,
+				370
+			],
+			"anim": "unstab",
+			"fps": 4,
+			"name": "QuagmireTwinkle3 unstab",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/QuagmireTwinkle3",
 	"position": [
-		610,
-		350
+		50,
+		-20
 	],
 	"healthicon": "quagmireTwinkle3",
 	"flip_x": true,
@@ -92,9 +92,9 @@
 		0
 	],
 	"camera_position": [
-		860,
-		-640
+		300,
+		-270
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

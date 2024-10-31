@@ -1,50 +1,6 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 13,
-			"name": "StewieTwinkleUncorrAlt down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 13,
-			"name": "StewieTwinkleUncorrAlt right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 13,
-			"name": "StewieTwinkleUncorrAlt up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 13,
-			"name": "StewieTwinkleUncorrAlt left",
-			"indices": []
-		},
-		{
 			"offsets": [
 				0,
 				0
@@ -54,13 +10,57 @@
 			"anim": "idle",
 			"loop": true,
 			"name": "StewieTwinkleUncorrAlt idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "StewieTwinkleUncorrAlt down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "StewieTwinkleUncorrAlt right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singUP",
+			"loop": false,
+			"name": "StewieTwinkleUncorrAlt up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "StewieTwinkleUncorrAlt left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/StewieTwinkleUncorrAlt",
 	"position": [
-		300,
-		380
+		200,
+		280
 	],
 	"healthicon": "face",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		161
 	],
 	"camera_position": [
-		-110,
-		-110
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 2.4
+	"scale": 1.2
 }

@@ -59,8 +59,8 @@
 	"no_antialiasing": true,
 	"image": "characters/Lois",
 	"position": [
-		330,
-		20
+		-240,
+		-380
 	],
 	"healthicon": "duo",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		2
 	],
 	"camera_position": [
-		-580,
-		-380
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

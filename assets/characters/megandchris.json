@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singLEFT",
-			"fps": 14,
-			"name": "MegandChris left",
-			"indices": []
-		},
-		{
 			"loop": true,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 14,
-			"name": "MegandChris down",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 14,
-			"name": "MegandChris up",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 14,
-			"name": "MegandChris right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
 			"fps": 14,
 			"anim": "idle",
-			"loop": true,
+			"indices": [],
 			"name": "MegandChris idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MegandChris left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MegandChris down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MegandChris up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MegandChris right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/MegandChris",
 	"position": [
-		-20,
-		90
+		-530,
+		-270
 	],
 	"healthicon": "PeterChrisMeg",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		-530,
-		-390
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

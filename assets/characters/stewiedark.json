@@ -5,10 +5,10 @@
 				1,
 				1
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark idle"
 		},
 		{
@@ -16,10 +16,10 @@
 				2,
 				1
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark right"
 		},
 		{
@@ -27,10 +27,10 @@
 				1,
 				1
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark left"
 		},
 		{
@@ -38,10 +38,10 @@
 				1,
 				1
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark down"
 		},
 		{
@@ -49,10 +49,10 @@
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark up"
 		},
 		{
@@ -60,18 +60,18 @@
 				1195,
 				700
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "teleport",
-			"indices": [],
+			"loop": false,
 			"name": "stewiedark teleport"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/stewiedark",
 	"position": [
-		420,
-		510
+		260,
+		360
 	],
 	"healthicon": "stewiedark",
 	"flip_x": true,
@@ -81,9 +81,9 @@
 		0
 	],
 	"camera_position": [
-		240,
-		-140
+		10,
+		-30
 	],
 	"sing_duration": 6.1,
-	"scale": 4.4
+	"scale": 1.1
 }

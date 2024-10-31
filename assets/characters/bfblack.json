@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/BFblack",
 	"position": [
-		180,
-		320
+		-20,
+		130
 	],
 	"healthicon": "bfblack",
 	"flip_x": true,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		320,
-		-310
+		140,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1
 }

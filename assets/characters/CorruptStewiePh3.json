@@ -2,65 +2,65 @@
 	"animations": [
 		{
 			"offsets": [
+				531,
+				591
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "CorruptStewiePh3 idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				971,
 				1471
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singUP",
-			"indices": [],
-			"name": "CorruptStewiePh3 up"
+			"fps": 13,
+			"name": "CorruptStewiePh3 up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				654,
 				692
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "CorruptStewiePh3 right"
+			"fps": 13,
+			"name": "CorruptStewiePh3 right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				1401,
 				1471
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "CorruptStewiePh3 left"
+			"fps": 13,
+			"name": "CorruptStewiePh3 left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				972,
 				1471
 			],
-			"loop": false,
-			"fps": 13,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "CorruptStewiePh3 down"
-		},
-		{
-			"offsets": [
-				531,
-				591
-			],
-			"indices": [],
 			"fps": 13,
-			"anim": "idle",
-			"loop": false,
-			"name": "CorruptStewiePh3 idle"
+			"name": "CorruptStewiePh3 down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/CorruptStewiePh3",
 	"position": [
-		580,
-		440
+		150,
+		-10
 	],
 	"healthicon": "stewieTwinkleph3",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		27
 	],
 	"camera_position": [
-		-600,
-		-1050
+		-180,
+		-630
 	],
 	"sing_duration": 9.99999999999999,
-	"scale": 4.8
+	"scale": 1.2
 }

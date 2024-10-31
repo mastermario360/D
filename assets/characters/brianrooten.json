@@ -1,50 +1,6 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
-			],
-			"anim": "singRIGHT",
-			"fps": 14,
-			"name": "brianrooten right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				1
-			],
-			"anim": "singDOWN",
-			"fps": 14,
-			"name": "brianrooten down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				1
-			],
-			"anim": "singLEFT",
-			"fps": 14,
-			"name": "brianrooten left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				4,
-				1
-			],
-			"anim": "singUP",
-			"fps": 14,
-			"name": "brianrooten up",
-			"indices": []
-		},
-		{
 			"offsets": [
 				1,
 				1
@@ -54,13 +10,57 @@
 			"anim": "idle",
 			"loop": true,
 			"name": "brianrooten idle"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "brianrooten right"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "brianrooten down"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "brianrooten left"
+		},
+		{
+			"offsets": [
+				4,
+				1
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "brianrooten up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/brianrooten",
 	"position": [
-		20,
-		400
+		-320,
+		180
 	],
 	"healthicon": "brianrooten",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		-290,
-		-320
+		40,
+		-120
 	],
 	"sing_duration": 6.1,
-	"scale": 4.4
+	"scale": 1.1
 }

@@ -1,50 +1,6 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-210,
-				10
-			],
-			"anim": "singDOWN",
-			"fps": 14,
-			"name": "RetepSoloFV down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singLEFT",
-			"fps": 14,
-			"name": "RetepSoloFV left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-197,
-				13
-			],
-			"anim": "singRIGHT",
-			"fps": 14,
-			"name": "RetepSoloFV right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 14,
-			"name": "RetepSoloFV up",
-			"indices": []
-		},
-		{
 			"offsets": [
 				0,
 				0
@@ -54,13 +10,57 @@
 			"anim": "idle",
 			"loop": true,
 			"name": "RetepSoloFV idle"
+		},
+		{
+			"offsets": [
+				-210,
+				10
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "RetepSoloFV down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "RetepSoloFV left"
+		},
+		{
+			"offsets": [
+				-197,
+				13
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RetepSoloFV right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "singUP",
+			"loop": false,
+			"name": "RetepSoloFV up"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/RetepSoloFV",
 	"position": [
-		280,
-		290
+		-50,
+		-50
 	],
 	"healthicon": "retepFV",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		-360,
-		-330
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4
+	"scale": 1
 }

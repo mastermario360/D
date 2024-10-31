@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-58,
 				-39
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 14,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				198,
 				81
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 14,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				35
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 14,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-56,
 				284
 			],
-			"loop": false,
-			"fps": 14,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 14,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-39,
 				85
 			],
-			"indices": [],
-			"fps": 14,
 			"anim": "idle",
-			"loop": true,
-			"name": "Idle"
+			"fps": 14,
+			"name": "Idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Rallo",
 	"position": [
-		820,
-		420
+		660,
+		210
 	],
 	"healthicon": "rallo",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		234
 	],
 	"camera_position": [
-		-570,
-		-390
+		-430,
+		-220
 	],
 	"sing_duration": 6.1,
-	"scale": 3.2
+	"scale": 0.8
 }

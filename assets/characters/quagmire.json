@@ -75,8 +75,8 @@
 	"no_antialiasing": false,
 	"image": "characters/quagmire",
 	"position": [
-		320,
-		270
+		0,
+		0
 	],
 	"healthicon": "squad",
 	"flip_x": true,
@@ -86,9 +86,9 @@
 		36
 	],
 	"camera_position": [
-		550,
-		-240
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 4.8
+	"scale": 1.2
 }

@@ -1,2 +1,0 @@
-Value 1: On
-Value 2: Off
